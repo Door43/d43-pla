@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pla:home|Door43 (pla)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pla|d43-pla repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pla/archive/master.zip|d43-pla.zip]]
+
+**Recent Changes**
+{{changes>ns = pla}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pla|Ethnologue data]]
+
